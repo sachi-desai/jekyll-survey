@@ -1,18 +1,10 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole survey
-# Set your firebase account in _data/firebase.yml (see also the readme)
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome survey
-email: info@matth-ijs.nl
+title: Psychometric Questionnaire
+email: sachidesai46@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A description for your survey
 baseurl: "" # the subpath of your site, e.g. /blog
